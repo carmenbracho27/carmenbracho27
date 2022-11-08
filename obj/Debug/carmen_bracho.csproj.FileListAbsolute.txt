@@ -1,0 +1,8 @@
+C:\Users\Tecnologico\source\repos\carmen_bracho\obj\Debug\carmen_bracho.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\carmen_bracho\obj\Debug\carmen_bracho.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tecnologico\source\repos\carmen_bracho\obj\Debug\carmen_bracho.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\carmen_bracho\bin\Debug\carmen_bracho.exe.config
+C:\Users\Tecnologico\source\repos\carmen_bracho\bin\Debug\carmen_bracho.exe
+C:\Users\Tecnologico\source\repos\carmen_bracho\bin\Debug\carmen_bracho.pdb
+C:\Users\Tecnologico\source\repos\carmen_bracho\obj\Debug\carmen_bracho.exe
+C:\Users\Tecnologico\source\repos\carmen_bracho\obj\Debug\carmen_bracho.pdb
